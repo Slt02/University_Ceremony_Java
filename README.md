@@ -1,1 +1,1 @@
-# University_Ceremony_Project
+# Implementation of a management system for an University's Ceremony event in Java, with Database Integration in mySQL
